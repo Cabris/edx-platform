@@ -28,92 +28,81 @@
 
 1. 開啟Studio.
 
-2. Make a note of the **Display Name** of the Subsection you are in and the
-**Display Name** of the Unit you are in.
+2. 做一個你目前所在Subsection的**Display Name**的筆記與你目前所在Unit的**Display Name**的筆記。
 
-3. At the location in the Unit where you want to start your discussion  :doc:`create_html_component`  
-that contains the  question you want students to discuss.
+3. 在一個你想開始討論的Unit位置  :doc:`create_html_component`  並其包含你希望學生去討論的問題。
 
-4. Directly under this new HTML component, click **Discussion** under **Add New
-Component.**
+4. 在此新HTML組件的正下方，點擊**Add NewComponent.**下方的**Discussion**。
 
 .. image:: Images/image057.png
 
-5. When the following box appears, click **Discussion Tag.**
+5. 當出現以下對話框，點擊**Discussion Tag.**
 
 .. image:: Images/image059.png
 
-6. When the following box appears, click **Edit.**
+6. 當出現以下對話框，點擊**Edit.**
 
 .. image:: Images/image061.png
 
-The following editing box opens. You will change the values in the small boxes,
-but you will not change the text in the large box.
+出現以下對話框。 你將修改小對話框中的數值，
+但不會更改到大對話框中的文字。
 
 .. image:: Images/image063.png
 
 .. note::
 
-	In the future, these boxes may be filled in for you with a default value.
+	在今後，這些對話框會被填入初始數值。
 
-7. In the **discussion_category** box, type the name of the category that you
-want to create for the discussion. You can include spaces.
+7. 在**discussion_category**對話框，鍵入你想創建之討論的分類名稱，可包含空白。
 
-8. In the **discussion_target** box, type the name of the subcategory that you
-want to create for the discussion. You can include spaces.
+8. 在**discussion_target**對話框，鍵入你想創建之討論的子分類名稱，可包含空白。
 
 .. note::
-	The category and subcategory names only appear in the discussion forum for
-	your course. They do not appear in the discussion space inside the Unit.
+	分類名稱及子分類名稱只會出現在你的課程的discussion forum。
+	不會出現在Unit中的discussion space。
 
-For example, if you set **discussion_category** to be “The Discussion Component”
-and you set **discussion_target** to be “Online Instruction Methods,” the
-category and subcategory appear as follow in the category list in the discussion
-forum:
+比如，當你把**discussion_category**設定成“The Discussion Component”
+並把**discussion_target**設定成“Online Instruction Methods,”，分類及子分類會如下出現在discussion
+forum中的分類清單:
 
 .. image:: Images/image065.png
  :width: 300
 
-9. In the **display_name** box, type a name for the discussion. The display name
-appears when a student hovers the mouse over the ribbon.
+9. 在**display_name**對話框，鍵入討論名稱。顯示出的名稱會出現當學生用滑鼠滑過ribbon。
 
-10. Click **Save.**
+10. 點擊**Save.**
 
 .. raw:: latex
   
       \newpage %
 
 
-Seed a Discussion Space in Your Course 
+在你的課程中Seed一個Discussion Space 
 **************************************
 
-When you create a discussion, many students may feel hesitant to be the first to
-post an answer to your question. You can get the discussion started by posting
-your own answer—preferably anonymously or as a student, so that students will be
-more comfortable replying if they disagree with your post.
+當你創建一個討論，許多學生可能對第一個發表答案感到猶豫。
+你可以以自行發表答案來開始這個討論
+—最好是以匿名或以學生名義發表，如此若學生不同意你的答案他們將會較為自在的回覆。
 
-To post as a student, follow the steps below. If you later want to reply as
-yourself, log back into your usual account and omit steps 1 and 2.
+要以學生名義發表，按照下面的步驟。若你之後想以自己名義回覆，
+登入到你平常使用的帳號並忽略步驟1及步驟2。
 
-1. Set up a test account on edX or Edge with an e-mail address that is not
-associated with your Course Team.
+1. 以一個未關係到你的課程團隊的電子信箱設定一個在edX或Edge上的測試帳號。
 
-2. Go to your course URL and register for your course.
+2. 前往你的課程網址並註冊課程。
 
-3. On edX or Edge, locate the Unit that contains the Discussion component.
+3. 在edX或Edge，locate the Unit that contains the Discussion component.
 
-4. In the Unit, locate the discussion space.
+4. 在Unit, locate the discussion space.
 
-5. Click **New post.**
+5. 點擊**New post.**
 
-6. Type a title for your post in the Title box, and then enter text for your
-post.
+6. 在標題框中鍵入你的發表的標題，並輸入要發表的內文。
 
-7. If you want to, select the **post anonymously** check box or the **follow
-this post** check box.
+7. 若你想，選取**post anonymously**勾選框或**follow
+this post**勾選框。
 
-8. When you are satisfied with your post, click **Add Post.**
+8. 當你對發表內容滿意，點擊**Add Post.**
 
-Your new post appears at the top of list in the unit. Posts are listed in
-reverse chronological order.
+你新的發表物會出現在unit中清單的上方。發表物會以反向時間順序排列。
 
