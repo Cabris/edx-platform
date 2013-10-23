@@ -1,35 +1,32 @@
 
 ******************* 
-Create a Discussion 
+創建一個討論 
 *******************
 
-To create a discussion in your course, you create a question and Discussion
-component in Studio. You can then encourage the students to respond by seeding
-the discussion space on edX or Edge.
+要在您的課程裡創建一個討論，您需先在Studio中創建問題以及討論組件。 
+然後，您可以鼓勵學生在edX或Edge中經由seeding此討論來回應。
 
 
-Create a Discussion Component 
+創建討論組件
 *****************************
 
-Keep in mind the following best practices when you create a Discussion
-component.
+當您在創建討論組件時，請將下面的練習銘記在心。
 
-• Be very sure that you want to add the Discussion component. Discussion
-• categories are immediately visible in your forum (on the Discussion tab for
-• your course) when you create them, even if the unit that contains the
-• Discussion component is set to Private
 
-• When you create an ID for the Discussion component, be very careful—especially
-• if you are adding the Discussion component to a running course. Follow the
-• format in step 10 below to make sure that the ID is unique across all courses
-• on edX.
+• 請確定你真的想加入討論組件。
+• 一但創建，你的論壇，討論類別是立即可見的 
+• (就位於您課程的的討論分頁上)，
+• 既使它包含被設定為私密的討論組件
 
-• Edit only the fields at the top of the Discussion component edit box. Do not
-• change the XML in the large box.
+• 當你為討論組件創建一個ID時，請千萬要注意—特別是當
+• 你正在為一個進行中的課程新增討論組件時。 遵守以下
+• 的格式在步驟10以確保此ID在整個edx課程中是獨一無二的
 
-To add a Discussion component:
+• 只編輯討論組件編輯區上方的欄位。 不要去修改large box中的XML。
 
-1. Open Studio.
+新增討論組件:
+
+1. 開啟Studio.
 
 2. Make a note of the **Display Name** of the Subsection you are in and the
 **Display Name** of the Unit you are in.
