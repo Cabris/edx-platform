@@ -1,82 +1,80 @@
 
 *****************************************
-Set Content Release Dates and Visibility
+設定內容發佈日期及可視度
 *****************************************
 
-The release schedule for course material is determined by setting release dates
-for sections and subsections.
+課程教材的發佈時程表是由設定sections與subsections的發佈日期決定的。
+
 
 Section
 *******
 
-    To set the release date for a section:
+    要設定section的發行日期:
 
-    1. On the **Course Content** menu, click **Course Outline**.
+    1. 在**Course Content**選單，點擊**Course Outline**.
 
-    2. Find the section you are looking for in the course outline.
+    2. 在course outline找到你要找的section。
 
-    3. Under **Will Release**, click **Edit**, and then change the date.
+    3. 在**Will Release**下方，點擊**Edit**接著改變日期。
  .. image:: Images/image280.png
 
 Subsection
 **********
 
-Subsections inherit the release date of the section they are in, but you can
-change this date so that different subsections are released at different times.
+Subsections繼承其所在section的發佈日期，但你可以更改這個日期
+如此一來不同的Subsections能在不同的時間發布。
 
-Note that if the release date for a subsection falls before the release date for
-the section that contains it, students will not be able to see the subsection
-until the release date for the *section *has passed. Section release dates
-override subsection release dates.
+注意若subsection的發佈日期比在其所在的section的發佈日期更早，學生在此*section *發佈日期前將無法看到此subsection
+Section會覆寫subsection的發佈日期。 
 
-   To set the release date for a subsection:
+   要為subsection設定發佈日期:
 
-    1. Click to open the subsection.
+    1. 點擊以開啟subsection.
 
-    2. Locate the **Subsection Settings** box in the top right corner.
+    2. 找到在右上角的**Subsection Settings** box。
 
-    3. Under **Release Date**, change the date.
+    3. 在**Release Date**下方，修改日期。
 
 Unit
 ****
      
-Individual units inherit the release date of the subsection they are in, but
-have an additional **Visibility** setting that can be set to **Public** or
-**Private**. Private units are never visible to students.
+個別的units繼承其所在的subsection的發佈日期，但其有一個額外的
+**Visibility**設定可將其設定為**Public**或
+**Private**。 Private units永不會被學生看到。
 
 .. note::
 
-You can modify private units directly. To modify a unit that is marked
-Public you must create a draft.
+你能直接修改private units，你必須創建一個草稿來修改被標記為
+Public的unit。
 
-For more information, see :doc:`modify_published_content` .
+觀看更多訊息，見 :doc:`modify_published_content` .
 
     
        
-    To change the **Visibility** setting for a private unit:
+    要變更private unit的**Visibility**設定:
   
   
-    1. Click to open the unit.
+    1. 點擊以開啟unit。
   
   
-    2. Locate the **Unit Settings** box in the top right corner.
+    2. 找到位於右上角的**Unit Settings** box。
   
   
-    3. For **Visibility**, select **Public**.
+    3. 於**Visibility**，選取**Public**。
   
   
-    To change the **Visibility** setting for a public unit:
+    要變更public unit的**Visibility**設定:
   
   
-    1. Click to open the unit.
+    1. 點擊以開啟unit。
   
   
-    2. Locate the **Unit Settings** box in the top right corner.
+    2. 找到位於右上角的**Unit Settings** box。
   
   
-    3. Under **Unit Settings**, click **edit a draft**.
+    3. 在**Unit Settings**下方，點擊**edit a draft**.
   
   
-    4. For **Visibility**, select **Private**.
+    4. 於**Visibility**，選取**Private**.
   
   
