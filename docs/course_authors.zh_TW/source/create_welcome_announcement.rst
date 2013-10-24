@@ -1,14 +1,13 @@
 
 ****************************************
-Create a Welcome Announcement and E-Mail
+創建一個歡迎公告及電子郵件
 ****************************************
 
 
-Send e-mail (welcome and weekly) (surveys?) (TBD)
+發送電子郵件(welcome and weekly) (surveys?) (TBD)
  
-Create welcome announcement 
+創建歡迎公告
  
-Create landing page announcement (change "landing page" to "Course Info"
-page)
+創建landing page公告(將"landing page"改為"Course Info"頁面)
   
-Create discussion forum
+創建discussion forum

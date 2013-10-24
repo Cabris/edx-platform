@@ -1,61 +1,57 @@
 ***************************
-Modifying Published Content
+修改已發佈的內容
 ***************************
  
-When you set a Unit to Public, that content appears on edX or Edge when you
-view the content as an instructor. If the release date has passed, the
-content is also visible to students.
+當你把一個Unit設為公開，當你以instructor身分觀看時，其內容會出現在edX或是Edge。
+若已經過了發佈日期，學生也可以看到其內容。
  
  
-If you want to modify content after it has been set to Public, you must
-create a draft. The draft does not appear on edX or Edge. However, the draft
-does appear when you view your content in Preview mode.
+若你想在將其設為公開後再去修改內容，你必須創建一個草稿。
+草稿不會出現在edX或Edge。然而，當你以預覽模式觀看你的內容時草稿也不會出現。
  
  
-To create a draft, open the Unit that you want. Note that no **Edit** button
-appears on the page for that Unit, and you cannot make changes to the Unit.
+要創建一個草稿，開啟你想要的Unit。 注意沒有**Edit**按鈕
+出現在Unit頁面中，你就不能對Unit做修改。
  
  
 .. image:: Images/image231.png
   :width: 600 
  
  
-In the right pane, click the blue **edit a draft** link in the **Unit
-Settings** box.
+在右邊的pane，點擊**UnitSettings**box裡的
+藍色**edit a draft**連結。
  
  
 .. image:: Images/image233.png
   :width: 600 
  
  
-After you click **edit a draft**, you can make changes to the Unit. You can
-edit existing content or add new content.
+在點擊**edit a draft**後，你可以對Unit進行修改。
+你可以編輯已存在的內容或是新增新內容。 
  
  
 .. image:: Images/image235.png
   :width: 600 
  
  
-If you want to view the version of your content that is currently live,
-click **Preview the published version **in the yellow banner at the top of
-the page.
+若你想要觀看你currently live的內容，
+點擊在頁面上方的黃色banner中的**Preview the published version **。
  
  
 .. image:: Images/image237.png
   :width: 600 
  
  
-If you want to view the draft version that you are working on, click
-**Preview** under **Unit Settings**. This opens your course in Preview
-mode.****
+若你想觀看你正在作業中的草稿，點擊**Unit Settings**下方的
+**Preview**。將會以預覽模式開啟你的課程。****
  
  
 .. image:: Images/image239.png
   :width: 600 
  
  
-When you are done making changes to the Unit, click the blue **replace it
-with this draft** link under **Unit Settings**.
+當你完成對Unit的修改時，點擊**Unit Settings**下方的藍色**replace it
+with this draft**連結。
  
  
 .. image:: Images/image241.png

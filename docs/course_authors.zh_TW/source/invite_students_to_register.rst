@@ -1,29 +1,26 @@
  
 ***************************
-Invite Students to Register
+邀請學生註冊
 ***************************
  
-To invite students to register for your course on Edge through the course
-registration page, direct students to the registration page, and provide
-instructions for completing the registration process.
+要邀請學生經由註冊頁面註冊你在Edge上的課程，先引導學生至註冊頁面，
+接著提供完成註冊作業的指示。
  
  
-1. Determine the link to your class registration page on Edge. To do this:
+1. 要確定連到你在Edge的課程的註冊頁面連結。 請做這些:
  
  
-a. Click the **Settings **tab of your course in Studio, and then locate the
-**Course Details** section.
+a. 在Studio中點擊你課程的**Settings **分頁， 接著找到
+**Course Details**的部分.
  
  
-b. Under **Basic Information**, you will see a link to email and invite
-students to enroll in your course.
+b. 在**Basic Information**下方，你會一個連結用來連到電子郵件並邀請學生來註冊你的課程。
  
  
-c. Click "**Invite Your Students**" link. Clicking the link creates an email
-template.
+c. 點擊"**Invite Your Students**"連結。 點擊連結以創建一個電子郵件樣式。
  
  
 .. image:: Images/image286.png
  
  
-d. Email this to your chosen mail list.
+d. 將其寄送到你選中的郵件清單。

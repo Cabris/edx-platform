@@ -1,7 +1,7 @@
  
 ************************
-Create and Seed the Wiki
+創建並且Seed Wiki
 ************************
  
-Create wiki ("seed" the wiki)
+創建wiki ("seed" the wiki)
  
