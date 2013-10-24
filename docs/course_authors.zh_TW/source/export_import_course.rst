@@ -1,64 +1,62 @@
  
 *************************
-Export or Import a Course
+匯出或匯入課程
 *************************
  
-Studio has an Import tool and an Export tool that allow you to import and
-export courses.
+Studio有一個匯入工具以及一個匯出工具如此你可以用以匯入匯出課程。
 
  
-Export a Course
+匯出一個課程
 ***************
  
-You can export a course that has been created in Studio. You can export a
-course for use by another instructor, or you can back up your course.
+你可以將一個已在Studio裡創建的課程匯出。 你可以匯出一個課程來
+讓另一個instructor使用，或是用來備份你的課程。
  
  
-For example, you may create a course in Studio, and then run that course. A
-friend or colleague, including a friend from another institution, may be
-interested in running their own customized version of that course. You can
-export the course that you have created and give it to the other instructor.
-That instructor can then import the course, make any changes that are
-necessary to reflect that instructor's situation, and then release the
-course to students.
+例如，你在Studio中創建一個課程，並且run此課程。 
+一個朋友或是同事，包括來自另一institution的朋友，可能有興趣於
+running他們自己客製化後的課程。 
+你能將你創建的課程匯出並將其給予其他nstructor。
+此instructor接著就可匯入此課程，做任何修改以符合其instructor的情況，
+並將課程發佈給學生。
  
  
-Or, you may export your course, and then make changes to your course in
-Studio. If you later want to revert to the earlier version of your course,
-you can import the version that you exported. Be careful if you do this
-while you are running your course, as you could lose your students' work.
+或者，你可以匯出你的課程，並在Studio做任何修改。
+若你之後想將課程改回先前的版本，
+你可以匯入你匯出的版本。注意若你做此動作時課程仍在running，
+將遺失你的學生的work.
  
  
-When you export your course, Studio creates a **.tar.gz** file that includes
-the following course data:
+當你匯出你的課程，Studio會創建一個**.tar.gz**檔案其中包含
+以下課程資料:
  
  
-1. Course structure (the order of sections and subsections)
+1. 課程結構 (sections及subsections的順序)
  
  
-2. Individual units
+2. 個別的units
  
  
-3. Individual problems
+3. 個別的problems
  
  
 4. Additional pages
  
  
-5. Files on the Files & Uploads page
+5. Files & Uploads 頁面中的檔案
  
 
  
-The exported file does not include the following data:
+匯出的檔案不會包含以下資料:
  
  
-1. Student or user data
+1. 學生或使用者資料
  
  
 2. Discussion forum data
  
  
-3. Course settings
+3. 課程設定
  
  
 4. Certificates
@@ -72,45 +70,44 @@ The exported file does not include the following data:
       \newpage %
  
 
-Import a Course
+匯入課程
 ***************
 
 
  
 .. warning::
 
-	This feature should be used with caution!
-	Importing a new course will delete all course content currently associated
-	with your course and replace it with the contents of the uploaded file. 
-	Importing a course cannot be undone.
+	請小心使用此功能!
+	匯入一個新的課程將會刪除目前所有與你課程有關聯的內容
+	並以上傳的檔案中的內容取代。
+	課程的匯入無法復原
  
  
-You can import courses that have already been created in Studio. These can
+你可以匯入一個已存在於Studio的課程。 These can
 be courses that you or someone else has created and exported.
  
  
-The file that you import must be a **.tar.gz** file that contains, at a
-minimum, a Course.xml file in a course data directory. The tar.gz file must
-have the same name as the course data directory.
+你匯入的檔案必須是一個**.tar.gz**檔案其中包含，至少，
+一個Course.xml檔案位於課程資料目錄。 此tar.gz檔必須要
+與課程資料目錄命名相同
  
  
-If your course uses legacy layout structures, you may not be able to edit
-the course in Studio, although it will probably appear correctly on Edge. To
-make sure that your course is completely editable, ensure that all of your
-material is embedded in a unit.
+若你的課程使用legacy layout structures，你將不能在Studio中編輯你的課程
+，即使其會正確地在Edge裡顯示，要確定你的課程是完全可編輯的，
+確定你所有的教材都被嵌入一個unit。
  
  
-To import a course:
+匯入一個課程:
  
  
-1. On the navigation bar, click **Tools**, and then click **Import**.
+1. 在navigation bar，點擊**Tools**，接著點擊**Import**。
  
  
 .. image:: Images/image243.png
  
  
-2. Under **Course to Import**, click **Choose File**.
+2. 在**Course to Import**下方，點擊**Choose File**。
  
  
-3. Locate the file that you want, and then click **Open**.
+3. 找到你要的檔案，接著點擊**Open**。
 
