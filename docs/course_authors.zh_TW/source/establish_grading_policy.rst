@@ -130,23 +130,23 @@ The assignments of a particular type together account for the percent value set 
   
   
 **Total Number:** 
-The number of assignments of that type that you plan to present in your course.
+你想呈現在你課程中的assignments type的數量。
   
   
 **Number of Droppable**
 (optional): Specify the number of assignments that the grader will drop. The grader will omit the lowest-scored assignments first.
   
   
-For example, the following course has two types of assignments. The overall course grade is broken down as 40% Homework and 60% Final Exam. There are eight Homework assignments, and the grader will omit the lowest-scored assignment from the final grade. Thus, the seven remaining Homework assignments are each worth 40 7 = 5.8% of the final grade.
+例如，以下的課程有兩種types of assignments。 整個課程的成績分為40% Homework及60% Final Exam。 有八個Homework assignments， and the grader will omit the lowest-scored assignment from the final grade. Thus, the seven remaining Homework assignments are each worth 40 7 = 5.8% of the final grade.
   
 .. image:: Images/image143.png
           
 Troubleshooting
 +++++++++++++++
    
-If you have problems creating assignment types, try the following.
+若你創建assignment types時發生問題，嘗試下列。
         
-In the **Weight of Total Grade** field, omit the % sign. Be sure that your **Weight of Total Grade** fields add up to 100.
+在 **Weight of Total Grade** field，忽略 % sign。 確定 **Weight of Total Grade** fields 加到了100。
     
 .. _Create-Graded-Subsections:  
 
@@ -155,43 +155,46 @@ In the **Weight of Total Grade** field, omit the % sign. Be sure that your **Wei
   
       \newpage %
 
-Create Subsections Containing Graded Assignments
+創建包含Graded Assignments的Subsections
 **************************************************
    
-After you establish your grading rubric, you can create a graded assignment or a test for your students. To do this, you must first create a subsections and then set up grading for the subsection. This includes setting the assignment type, the assignment release date, and the due date.
+在你建立你的grading rubric後，你可以創建一個graded assignment或是給學生的test。 要做到這個，
+你必須先創建一個subsections並且為其設定grading。 包含設定assignment type, the assignment release date, and the due date.
   
 
 .. note::
 
-	When you set a due date, keep in mind that students will be in different time zones across the world. By default, the time zone appears as UTC-not the student's local time. If you tell your students an assignment is due at 5:00 PM, make sure to specify that the time is 5:00 PM UTC and point them to a time converter.
+	當你設定截止日期，注意學生將來自世界不同時區。 預設上，the time zone appears as UTC-not the student's local time. If you tell your students an assignment is due at 5:00 PM, make sure to specify that the time is 5:00 PM UTC and point them to a time converter.
       
   
-Alternatively, you can :ref:`set a grace period<Set-Grace-Period>` for your assignments to cover any misunderstandings about time. For example, some classes have set a grace period of 1 day, 6 hours, and 1 minute. This grace period applies to the entire course. 
+另外， 你可以 :ref:`set a grace period<Set-Grace-Period>` for your assignments to cover any misunderstandings about time. For example, some classes have set a grace period of 1 day, 6 hours, and 1 minute. This grace period applies to the entire course. 
       
-Keep in mind that a subsection can only have one assignment type. If you want to create a homework assignment and a lab for a specific topic, you would create two subsections for that topic. You would set one subsection as the Homework assignment type and the other as the Lab assignment type. Both subsections can contain other content as well as the actual homework or lab problems.
+請記住一個subsection只能有一個assignment type。 若你想為某一主題創建一個homework assignment及一個lab，
+你可以為其主題創建兩個subsections。 你可以設定其中一個subsection為Homework assignment type另一個為Lab assignment type。 這兩個subsections可包含其自己的內容及實際的homework或lab problems。
   
   
 All assignments of a particular type are automatically worth the same amount. Thus, a homework assignment that contains 10 problems is worth the same percentage of a student's grade as a homework assignment that contains 20 problems. If you want the assignment with 20 problems to be worth twice as much as the assignment with 10 problems, you can create two assignments.
   
   
-1. On the navigation bar, click **Course Content**, and then click **Outline**.
+1. 在navigation bar，點擊 **Course Content**，接著點擊 **Outline**。
   
   
 .. image:: Images/image145.png
 
       
-2. Under **Course Outline**, locate the section where you want to add an assignment.
+2. 在 **Course Outline**，找到你想要增加assignment的section。
   
-3. Under the name of the section, click **New Subsection**.
+3. 在name of the section，點擊 **New Subsection**。
        
-4. In the text box, replace **New Subsection** with the name of your subsection, and then click **Save**.
+4. 在text box中，以你的subsection name取代 **New Subsection** ，接著點擊 **Save**。
       
-Click the subsection you want. The edit page for the subsection opens. In the top right corner of the page, locate the **Subsection Settings** box.
+點擊你要的subsection。 開啟此subsection的edit page。 在頁面的右上角，找到 **Subsection Settings** box。
 
 
 .. image:: Images/image147.png     
       
-Set the assignment type. To do this, locate the blue link next to **Graded as**. Because all subsections are set to  **Not Graded** by default, the text for this link is **NOT GRADED**.
+設定assignment type. 做下列，找到 **Graded as**旁的藍色連結。
+因為所有subsections都預設設為**Not Graded**。此連結的文字是 **NOT GRADED**。
 
 .. image:: Images/image149.png  
     
@@ -200,23 +203,24 @@ Click this link to open a list of the assignment types that you specified in you
   
 .. image:: Images/image151.png   
 
-Set the assignment's release date and time. To set the date, click inside the **Release date** field, and then select the date that you want in the calendar that appears. To set the release time, click inside the time input field, and then specify the time you want.
+要設定assignment的發佈日期及時間。 要設定日期， 在**Release date** field中點擊，接著在出現的calendar裡選取你要的日期。 要設定發佈時間，在time input field中點擊，接著指定你要的時間。
        
-Set a due date for the assignment. To do this, click the blue **SET A DUE DATE** link, and click inside the **Due date** box, and then select the date you want in the calendar that appears. To set the time, click inside the time input field, and then specify the time you want.
+要為assignment設定截止日期。 做下列，點擊藍色 **SET A DUE DATE** 連結，接著在**Due date** box中點擊，
+接著在出現的calendar裡選取你要的截止日期。 要設定時間，在time input field中點擊，接著指定你要的時間。
 
-Change a Subsection's Assignment Type
+修改Subsection的Assignment Type
 +++++++++++++++++++++++++++++++++++++    
   
-To set the assignment type for a subsection:
+要為一個subsection設定assignment type:
   
-1. On the navigation bar, click **Course Content**, and then click **Course Outline**.
+1. 在navigation bar，點擊 **Course Content**接著點擊 **Course Outline**。
 
-2. Under **Course Outline**, locate the subsection that you want.
+2. 在 **Course Outline**，找到你要的subsection。
   
-3. On the right side of the screen, click the blue check mark for the subsection, and then select the assignment type.
+3. 在screen右側，點擊subsection的藍色check mark，並選取assignment type。
   
 .. image:: Images/image153.png   
 
 .. note::
 
-	If you change an assignment type name in the Grading page, make sure the assignment type names on the Course Outline still match.
+	若你在Grading page裡修改了assignment type name， 確定其依然與Course Outline裡的assignment type names匹配。
